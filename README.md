@@ -1,10 +1,10 @@
 **LifeExpectancyPrediction**
 
-**Problem Statement**
+**Problem Statement :**
 
 WHO wants a data driven approach which could help in suggesting a country which area should be given importance in order to efficiently improve the life expectancy of its population. Life_Expectancy_Data.csv file contains the data
 
-**Solution**
+**Solution:**
 
 Building a Prediction engine which predicts the life expectancy based on various features like status of the country, GDP, Alcohol consumption, adult mortality rate etc. To build a prediction engine we will use linear regression model.
 
@@ -12,7 +12,7 @@ Building a Prediction engine which predicts the life expectancy based on various
 
 To perform regression analysis to study life expectancy in different countries
 
-**Steps carried out through Linear Regression for the above business problem.**
+**Steps carried out through Linear Regression for the above business problem: **
 1) Loading the Data.
 2) Understanding the Data
 3) Data Preprocessing
