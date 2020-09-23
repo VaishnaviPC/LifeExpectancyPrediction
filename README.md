@@ -1,4 +1,4 @@
-**LifeExpectancyPrediction**
+**Life Expectancy Prediction**
 
 **Problem Statement :**
 
@@ -13,10 +13,11 @@ Building a Prediction engine which predicts the life expectancy based on various
 To perform regression analysis to study life expectancy in different countries
 
 **Steps carried out through Linear Regression for the above business problem: **
-1) Loading the Data.
+
+1) Loading the Data
 2) Understanding the Data
 3) Data Preprocessing
 4) Exploratory Data Analysis
-5) Model Building - Recursive Feature Elimination and Stepwise regression.
+5) Model Building - Recursive Feature Elimination and Stepwise regression
 6) Model Diagnostics
 7) Predictions and Evaluations
