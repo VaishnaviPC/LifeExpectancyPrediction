@@ -19,7 +19,6 @@ To perform regression analysis to study life expectancy in different countries
 3) Data Preprocessing
 4) Exploratory Data Analysis
 5) Model Building - OLS regression
-   **Appoach used:** 
-   Recursive Feature Elimination (RFE) and Stepwise regression
-6) Model Diagnostics
-7) Predictions and Evaluations
+6) Appoaches used:Recursive Feature Elimination (RFE) and Stepwise regression
+7) Model Diagnostics
+8) Predictions and Evaluations
